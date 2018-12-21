@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/jtraverjr/github/random-planet-api/target/scala-2.11/random-planet-api_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/codeforcoffee[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jtraverjr/github/random-planet-api/target/scala-2.11/classes/org/codeforcoffee[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/codeforcoffee/AppStart$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jtraverjr/github/random-planet-api/target/scala-2.11/classes/org/codeforcoffee/AppStart$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/codeforcoffee/AppStart.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jtraverjr/github/random-planet-api/target/scala-2.11/classes/org/codeforcoffee/AppStart.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/codeforcoffee/HtmlService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jtraverjr/github/random-planet-api/target/scala-2.11/classes/org/codeforcoffee/HtmlService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jtraverjr/github/random-planet-api/target/scala-2.11/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/codeforcoffee/AppStart$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jtraverjr/github/random-planet-api/target/scala-2.11/classes/org/codeforcoffee/AppStart$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/codeforcoffee/HtmlService$class.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jtraverjr/github/random-planet-api/target/scala-2.11/classes/org/codeforcoffee/HtmlService$class.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jtraverjr/github/random-planet-api/target/scala-2.11/classes/org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/codeforcoffee/HtmlServiceActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jtraverjr/github/random-planet-api/target/scala-2.11/classes/org/codeforcoffee/HtmlServiceActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/codeforcoffee/HtmlService$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jtraverjr/github/random-planet-api/target/scala-2.11/classes/org/codeforcoffee/HtmlService$$anonfun$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
