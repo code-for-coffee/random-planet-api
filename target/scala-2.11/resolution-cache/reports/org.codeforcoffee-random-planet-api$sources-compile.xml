@@ -7,7 +7,7 @@
 		revision="0.1"
 		conf="compile"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20181220225418"/>
+		date="20181220231401"/>
 	<dependencies>
 		<module organisation="io.spray" name="spray-client_2.11">
 			<revision name="1.3.3" status="release" pubdate="20150324085226" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spray.io" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="46">

@@ -1,2 +1,3 @@
 [0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/jtraverjr/github/random-planet-api/src/main/resources/kepler_exoplanets.json,/Users/jtraverjr/github/random-planet-api/target/scala-2.11/classes/kepler_exoplanets.json)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/Users/jtraverjr/github/random-planet-api/src/main/resources/application.conf,/Users/jtraverjr/github/random-planet-api/target/scala-2.11/classes/application.conf)[0m
