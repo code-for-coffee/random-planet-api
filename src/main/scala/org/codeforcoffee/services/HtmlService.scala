@@ -1,9 +1,8 @@
 package org.codeforcoffee
 
 import akka.actor.Actor
+import spray.http.MediaTypes._
 import spray.routing._
-import spray.http._
-import MediaTypes._
 
 class HtmlServiceActor extends Actor with HtmlService {
 
